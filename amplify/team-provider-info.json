@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ampconsoleapp1f04efd6": {}
+      },
+      "function": {
+        "todoLambda": {
+          "deploymentBucketName": "amplify-ampconsoleapp-dev-182517-deployment",
+          "s3Key": "amplify-builds/todoLambda-55596f772b5355686759-build.zip"
+        }
       }
     }
   }

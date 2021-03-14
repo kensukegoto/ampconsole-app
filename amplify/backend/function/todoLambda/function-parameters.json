@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "ampconsoleapp1f04efd6": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
